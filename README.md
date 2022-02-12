@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Itay Oshri👋
+- 🔭 I’m currently working on [Timetable](https://github.com/itays123/timetable) with @itays123
 
 <!--
 **itayoshri/itayoshri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
