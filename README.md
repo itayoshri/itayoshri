@@ -27,6 +27,7 @@
       alt="express"
       width="40"
       height="40"
+      style="background-color: white"
     />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -48,20 +49,24 @@
       width="40"
       height="40"
     />
+  </a>
+  <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
     />
-  </a>
+</a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
       alt="nextjs"
       width="40"
       height="40"
+      style="background-color: white; padding: 0 2px 0 2px"
     />
+
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
