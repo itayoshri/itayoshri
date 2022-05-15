@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [timetable](https://github.com/yanshoof-app/timetable) with [@itays123](https://github.com/itays123)
 
-- ✨ I'm most love my basic script from [Mashov Wide PP Fixer](https://github.com/itayoshri/MashovWidePPFixer)
+- ✨ I'm most proud of my basic script from [Mashov Wide PP Fixer](https://github.com/itayoshri/MashovWidePPFixer)
 
 - 💼 I have lots of experience with video editing and motion graphics
 <h1></h1>
